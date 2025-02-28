@@ -1,0 +1,58 @@
+body {
+    font-family: sans-serif;
+}
+header{
+    background-color: blue
+}
+nav a {
+    color:white;
+    padding: 30px 40px;
+    text-decoration: none;
+
+}
+main {
+    text-align: centre;
+}
+main h1{
+    text-align:center;
+}
+
+main text{
+        font-size: 950px;
+    }
+    main p{
+        
+    font-size: 30px;
+    text-align:center;}
+    ul {
+  font-size: 30px;
+}
+ footer{
+        background-color: blue;
+    }
+    .imgsmol{
+    width:100px;
+}
+
+.smol{
+    width:50px;
+}
+
+footer p{
+    text-align: center;
+}
+.pleyerimg {
+    width: 200px;
+    height: 300px;
+}
+
+.footboll{
+    display: flex;
+    justify-content: center; 
+}
+
+.center{
+    display: flex;
+    justify-content: center;
+
+}
